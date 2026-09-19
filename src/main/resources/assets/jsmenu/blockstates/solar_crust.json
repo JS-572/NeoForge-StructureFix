@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "stage=solar_crust": {
+      "model": "jsmenu:block/solar_crust"
+    },
+    "stage=ignited_solar_crust": {
+      "model": "jsmenu:block/ignited_solar_crust"
+    },
+    "stage=regolith": {
+      "model": "jsmenu:block/regolith"
+    },
+    "stage=ignited_regolith": {
+      "model": "jsmenu:block/ignited_regolith"
+    }
+  }
+}

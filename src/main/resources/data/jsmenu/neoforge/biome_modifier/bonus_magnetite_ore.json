@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "jsmenu:metallic_highlands"
+  ],
+  "features": "jsmenu:bonus_magnetite_ore_placed",
+  "step": "underground_ores"
+}

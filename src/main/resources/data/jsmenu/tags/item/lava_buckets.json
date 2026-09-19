@@ -1,0 +1,16 @@
+{
+  "values": [
+    "jsmenu:red_lava_bucket",
+    "minecraft:lava_bucket",
+    "jsmenu:light_yellow_lava_bucket",
+    "jsmenu:yellow_lava_bucket",
+    "jsmenu:green_lava_bucket",
+    "jsmenu:light_blue_lava_bucket",
+    "jsmenu:blue_lava_bucket",
+    "jsmenu:purple_lava_bucket",
+    "jsmenu:pink_lava_bucket",
+    "jsmenu:white_lava_bucket",
+    "jsmenu:brown_lava_bucket",
+    "jsmenu:black_lava_bucket"
+  ]
+}

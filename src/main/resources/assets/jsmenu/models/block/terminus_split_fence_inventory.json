@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "jsmenu:block/terminus_split_planks_4"
+  }
+}

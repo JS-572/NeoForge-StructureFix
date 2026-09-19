@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "C": {
+      "item": "jsmenu:carbon"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "###",
+    "#C#",
+    "#D#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "jsmenu:carbon_compressor"
+  }
+}

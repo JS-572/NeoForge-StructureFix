@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "jsmenu:block/bloom_pressure_plate"
+    },
+    "powered=true": {
+      "model": "jsmenu:block/bloom_pressure_plate_down"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "jsmenu:block/ferric_spine_log_top",
+    "side": "jsmenu:block/stripped_ferric_spine_log_side"
+  }
+}

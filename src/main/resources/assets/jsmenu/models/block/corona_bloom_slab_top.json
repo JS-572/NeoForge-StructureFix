@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "jsmenu:block/corona_bloom_planks",
+    "side": "jsmenu:block/corona_bloom_planks",
+    "top": "jsmenu:block/corona_bloom_planks"
+  }
+}

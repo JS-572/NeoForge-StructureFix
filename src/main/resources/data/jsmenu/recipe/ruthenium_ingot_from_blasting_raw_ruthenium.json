@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "ruthenium",
+  "ingredient": {
+    "item": "jsmenu:raw_ruthenium"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:ruthenium_ingot"
+  }
+}

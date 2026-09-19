@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "jsmenu:block/nfl_jax",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "jsmenu:block/nfl_jax"
+    },
+
+    "facing=south": {
+      "model": "jsmenu:block/nfl_jax",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsmenu:block/nfl_jax",
+      "y": 270
+    }
+  }
+}

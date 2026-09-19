@@ -1,0 +1,7 @@
+{
+  "message_id": "jsmenu.berkelium_ore_karma",
+  "scaling": "never",
+  "exhaustion": 0.1,
+  "effects": "hurt",
+  "death_message_type": "default"
+}

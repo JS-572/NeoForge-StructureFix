@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jsmenu:block/bloom_slab"
+    },
+    "type=double": {
+      "model": "jsmenu:block/bloom_block"
+    },
+    "type=top": {
+      "model": "jsmenu:block/bloom_slab_top"
+    }
+  }
+}

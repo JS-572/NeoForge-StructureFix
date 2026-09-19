@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jsmenu:roentgenium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "jsmenu:roentgenium_ingot"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "rhenium",
+  "ingredient": {
+    "item": "jsmenu:raw_rhenium"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:rhenium_ingot"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "jsmenu:lunar_plains",
+    "jsmenu:frozen_silence",
+    "jsmenu:whispering_fields"
+  ],
+  "features": "jsmenu:lunar_tallgrass_placed",
+  "step": "vegetal_decoration"
+}
+

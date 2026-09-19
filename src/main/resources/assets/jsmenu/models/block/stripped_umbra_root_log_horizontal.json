@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "jsmenu:block/umbra_root_log_top",
+    "side": "jsmenu:block/stripped_umbra_root_log_side"
+  }
+}

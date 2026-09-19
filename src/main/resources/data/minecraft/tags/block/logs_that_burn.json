@@ -1,0 +1,8 @@
+{
+  "values": [
+    "jsmenu:lunar_log",
+    "jsmenu:bloom_log",
+    "jsmenu:drift_log",
+    "jsmenu:vacuum_log"
+  ]
+}

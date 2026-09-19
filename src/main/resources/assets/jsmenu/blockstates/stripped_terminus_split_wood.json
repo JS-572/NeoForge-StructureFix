@@ -1,0 +1,42 @@
+{
+  "variants": {
+    "axis=y,facing=north": {
+      "model": "jsmenu:block/stripped_terminus_split_wood"
+    },
+    "axis=y,facing=east": {
+      "model": "jsmenu:block/stripped_terminus_split_wood"
+    },
+    "axis=y,facing=south": {
+      "model": "jsmenu:block/stripped_terminus_split_wood"
+    },
+    "axis=y,facing=west": {
+      "model": "jsmenu:block/stripped_terminus_split_wood"
+    },
+
+    "axis=x,facing=north": {
+      "model": "jsmenu:block/stripped_terminus_split_wood"
+    },
+    "axis=x,facing=east": {
+      "model": "jsmenu:block/stripped_terminus_split_wood"
+    },
+    "axis=x,facing=south": {
+      "model": "jsmenu:block/stripped_terminus_split_wood"
+    },
+    "axis=x,facing=west": {
+      "model": "jsmenu:block/stripped_terminus_split_wood"
+    },
+
+    "axis=z,facing=north": {
+      "model": "jsmenu:block/stripped_terminus_split_wood"
+    },
+    "axis=z,facing=east": {
+      "model": "jsmenu:block/stripped_terminus_split_wood"
+    },
+    "axis=z,facing=south": {
+      "model": "jsmenu:block/stripped_terminus_split_wood"
+    },
+    "axis=z,facing=west": {
+      "model": "jsmenu:block/stripped_terminus_split_wood"
+    }
+  }
+}

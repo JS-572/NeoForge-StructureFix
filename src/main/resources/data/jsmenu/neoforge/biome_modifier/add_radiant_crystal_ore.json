@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "jsmenu:solar_plains",
+    "jsmenu:flare_fields",
+    "jsmenu:corona_highlands"
+  ],
+  "features": "jsmenu:radiant_crystal_ore_placed",
+  "step": "underground_ores"
+}

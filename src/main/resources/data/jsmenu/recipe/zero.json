@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:white_concrete"
+    },
+    "W": {
+      "item": "minecraft:coal"
+    },
+    "#": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "pattern": [
+    "#WC",
+    "   ",
+    "   "
+  ],
+  "result": {
+    "count": 1,
+    "id": "jsmenu:zero"
+  }
+}

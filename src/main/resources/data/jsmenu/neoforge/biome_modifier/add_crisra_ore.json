@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "jsmenu:lunar_plains",
+    "jsmenu:glowfields",
+    "jsmenu:crater_gardens",
+    "jsmenu:frozen_silence",
+    "jsmenu:whispering_fields"
+  ],
+  "features": "jsmenu:crisra_ore_placed",
+  "step": "underground_ores"
+}

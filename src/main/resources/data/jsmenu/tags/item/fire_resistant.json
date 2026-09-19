@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "jsmenu:solar_stone",
+    "jsmenu:corestone",
+    "jsmenu:solar_ash",
+    "jsmenu:ignited_solar_ash",
+    "jsmenu:flarewood_log",
+    "jsmenu:flarewood_wood",
+    "jsmenu:stripped_flarewood_log",
+    "jsmenu:stripped_flarewood_wood",
+    "jsmenu:flarewood_planks",
+    "jsmenu:flarewood_leaves",
+    "jsmenu:flarewood_sapling"
+  ]
+}

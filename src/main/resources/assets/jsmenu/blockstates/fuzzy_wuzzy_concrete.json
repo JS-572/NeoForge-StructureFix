@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "jsmenu:block/fuzzy_wuzzy_concrete"
+    }
+  }
+}

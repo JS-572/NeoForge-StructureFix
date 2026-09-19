@@ -1,0 +1,15 @@
+{
+  "values": [
+    "jsmenu:osmium_ore",
+    "jsmenu:iridium_ore",
+    "jsmenu:platinum_ore",
+    "jsmenu:thallium_ore",
+    "jsmenu:lead_ore",
+    "jsmenu:bismuth_ore",
+    "jsmenu:polonium_ore",
+    "jsmenu:astatine_ore",
+    "jsmenu:radon_ore",
+    "jsmenu:francium_ore",
+    "jsmenu:radium_ore"
+  ]
+}

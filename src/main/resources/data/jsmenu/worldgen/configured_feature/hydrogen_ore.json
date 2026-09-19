@@ -1,0 +1,90 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "discard_chance_on_air_exposure": 0.0,
+    "size": 12,
+    "targets": [
+      {
+        "state": {
+          "Name": "jsmenu:hydrogen_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:stone_ore_replaceables"
+        }
+      },
+      {
+        "state": {
+          "Name": "jsmenu:hydrogen_ore"
+        },
+        "target": {
+          "block": "minecraft:oak_leaves",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "jsmenu:hydrogen_ore"
+        },
+        "target": {
+          "block": "minecraft:spruce_leaves",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "jsmenu:hydrogen_ore"
+        },
+        "target": {
+          "block": "minecraft:birch_leaves",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "jsmenu:hydrogen_ore"
+        },
+        "target": {
+          "block": "minecraft:jungle_leaves",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "jsmenu:hydrogen_ore"
+        },
+        "target": {
+          "block": "minecraft:acacia_leaves",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "jsmenu:hydrogen_ore"
+        },
+        "target": {
+          "block": "minecraft:dark_oak_leaves",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "jsmenu:hydrogen_ore"
+        },
+        "target": {
+          "block": "minecraft:mangrove_leaves",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "jsmenu:hydrogen_ore"
+        },
+        "target": {
+          "block": "minecraft:cherry_leaves",
+          "predicate_type": "minecraft:block_match"
+        }
+      }
+    ]
+  }
+}

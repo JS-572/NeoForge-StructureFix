@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:savanna_plateau",
+    "minecraft:meadow",
+    "minecraft:windswept_hills"
+  ],
+  "features": "jsmenu:foys_treasure_placed",
+  "step": "vegetal_decoration"
+}
+

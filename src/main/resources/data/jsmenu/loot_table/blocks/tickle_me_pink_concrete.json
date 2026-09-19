@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "jsmenu:tickle_me_pink_concrete"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "jsmenu:blocks/tickle_me_pink_concrete"
+}

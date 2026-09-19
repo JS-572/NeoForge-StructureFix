@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "jsmenu:block/nba_orl",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "jsmenu:block/nba_orl"
+    },
+
+    "facing=south": {
+      "model": "jsmenu:block/nba_orl",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsmenu:block/nba_orl",
+      "y": 270
+    }
+  }
+}

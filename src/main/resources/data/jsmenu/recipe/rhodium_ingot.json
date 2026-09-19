@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jsmenu:rhodium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "jsmenu:rhodium_ingot"
+  }
+}

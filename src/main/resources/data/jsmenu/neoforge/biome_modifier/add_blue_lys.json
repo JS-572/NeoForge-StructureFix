@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:river",
+    "minecraft:meadow",
+    "minecraft:swamp"
+  ],
+  "features": "jsmenu:blue_lys_placed",
+  "step": "vegetal_decoration"
+}
+

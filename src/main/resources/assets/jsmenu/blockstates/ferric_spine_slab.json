@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jsmenu:block/ferric_spine_slab"
+    },
+    "type=double": {
+      "model": "jsmenu:block/ferric_spine_block"
+    },
+    "type=top": {
+      "model": "jsmenu:block/ferric_spine_slab_top"
+    }
+  }
+}

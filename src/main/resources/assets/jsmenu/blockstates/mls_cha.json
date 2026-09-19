@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "jsmenu:block/mls_cha",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "jsmenu:block/mls_cha"
+    },
+
+    "facing=south": {
+      "model": "jsmenu:block/mls_cha",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsmenu:block/mls_cha",
+      "y": 270
+    }
+  }
+}

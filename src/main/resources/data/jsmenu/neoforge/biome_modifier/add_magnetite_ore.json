@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "jsmenu:sunscorch_plains",
+    "jsmenu:terminator_ridge",
+    "jsmenu:frozen_shadow_craters",
+    "jsmenu:molten_basin",
+    "jsmenu:metallic_highlands"
+  ],
+  "features": "jsmenu:magnetite_ore_placed",
+  "step": "underground_ores"
+}

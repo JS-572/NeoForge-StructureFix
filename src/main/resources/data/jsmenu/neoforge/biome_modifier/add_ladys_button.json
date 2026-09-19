@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:meadow",
+    "minecraft:plains",
+    "minecraft:flower_forest"
+  ],
+  "features": "jsmenu:ladys_button_placed",
+  "step": "vegetal_decoration"
+}
+

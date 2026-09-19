@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "jsmenu:metallic_highlands"
+  ],
+  "features": "jsmenu:bonus_sulfur_crystal_ore_placed",
+  "step": "underground_ores"
+}

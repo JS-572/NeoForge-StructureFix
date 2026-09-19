@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jsmenu:block/corona_bloom_slab"
+    },
+    "type=double": {
+      "model": "jsmenu:block/corona_bloom_block"
+    },
+    "type=top": {
+      "model": "jsmenu:block/corona_bloom_slab_top"
+    }
+  }
+}

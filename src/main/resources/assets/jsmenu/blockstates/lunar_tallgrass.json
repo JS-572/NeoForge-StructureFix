@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "jsmenu:block/lunar_tallgrass_bottom"
+    },
+    "half=upper": {
+      "model": "jsmenu:block/lunar_tallgrass_top"
+    }
+  }
+}

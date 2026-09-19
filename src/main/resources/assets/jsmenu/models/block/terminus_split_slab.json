@@ -1,0 +1,38 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "top": "jsmenu:block/terminus_split_planks_4",
+    "bottom": "jsmenu:block/terminus_split_planks_4",
+    "north": "jsmenu:block/terminus_split_planks_3",
+    "east": "jsmenu:block/terminus_split_planks_1",
+    "south": "jsmenu:block/terminus_split_planks_4",
+    "west": "jsmenu:block/terminus_split_planks_2"
+  },
+  "elements": [
+    {
+      "name": "base_block",
+      "from": [0, 0, 0],
+      "to": [16, 8, 16],
+      "faces": {
+        "down": {
+          "texture": "#bottom", "cullface": "down"
+        },
+        "up": {
+          "texture": "#top", "cullface": "up"
+        },
+        "north": {
+          "texture": "#north", "cullface": "north"
+        },
+        "east": {
+          "texture": "#east", "cullface": "east"
+        },
+        "south": {
+          "texture": "#south", "cullface": "south"
+        },
+        "west": {
+          "texture": "#west", "cullface": "west"
+        }
+      }
+    }
+  ]
+}

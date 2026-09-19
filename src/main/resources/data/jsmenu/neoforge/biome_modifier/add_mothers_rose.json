@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:flower_forest",
+    "minecraft:cherry_grove",
+    "minecraft:forest"
+  ],
+  "features": "jsmenu:mothers_rose_placed",
+  "step": "vegetal_decoration"
+}
+

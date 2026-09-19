@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "jsmenu:block/nhl_phi",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "jsmenu:block/nhl_phi"
+    },
+
+    "facing=south": {
+      "model": "jsmenu:block/nhl_phi",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsmenu:block/nhl_phi",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:forest",
+    "minecraft:flower_forest",
+    "minecraft:cherry_grove"
+  ],
+  "features": "jsmenu:friendship_rose_placed",
+  "step": "vegetal_decoration"
+}
+

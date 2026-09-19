@@ -1,0 +1,26 @@
+{
+  "ambientocclusion": true,
+  "textures": {
+    "particle": "jsmenu:block/terminus_split_planks_2",
+    "east": "jsmenu:block/terminus_split_planks_2",
+    "west": "jsmenu:block/terminus_split_planks_2",
+    "south": "jsmenu:block/terminus_split_planks_2",
+    "north": "jsmenu:block/terminus_split_planks_2",
+    "top": "jsmenu:block/terminus_split_planks_2"
+  },
+  "elements": [
+    {
+      "name": "button_wall_west_cube_pressed",
+      "from": [5, 0, 6],
+      "to": [11, 1, 10],
+      "faces": {
+        "north": { "texture": "#north" },
+        "south": { "texture": "#south" },
+        "up":    { "texture": "#top" },
+        "down":  { "texture": "#top", "cullface": "down" },
+        "east":  { "texture": "#east" },
+        "west":  { "texture": "#west" }
+      }
+    }
+  ]
+}

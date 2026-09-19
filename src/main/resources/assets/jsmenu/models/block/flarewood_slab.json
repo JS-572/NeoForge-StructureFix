@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "jsmenu:block/flarewood_planks",
+    "side": "jsmenu:block/flarewood_planks",
+    "top": "jsmenu:block/flarewood_planks"
+  }
+}

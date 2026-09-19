@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jsmenu:titanium_ingot"
+    },
+    {
+      "item": "jsmenu:titanium_ingot"
+    },
+    {
+      "item": "jsmenu:titanium_ingot"
+    },
+    {
+      "item": "jsmenu:titanium_ingot"
+    },
+    {
+      "item": "jsmenu:titanium_ingot"
+    },
+    {
+      "item": "jsmenu:titanium_ingot"
+    },
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:unbreaking": 3
+        }
+      }
+    }
+  }
+}

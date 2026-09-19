@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jsmenu:gradient_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "jsmenu:gradient_moon_gem"
+  }
+}

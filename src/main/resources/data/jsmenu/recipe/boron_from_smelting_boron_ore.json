@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "boron",
+  "ingredient": {
+    "item": "jsmenu:boron_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:boron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "roentgenium",
+  "ingredient": {
+    "item": "jsmenu:roentgenium_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:roentgenium_ingot"
+  }
+}

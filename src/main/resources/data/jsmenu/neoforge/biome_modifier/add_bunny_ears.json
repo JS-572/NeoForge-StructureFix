@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:sparse_jungle",
+    "minecraft:jungle",
+    "minecraft:meadow"
+  ],
+  "features": "jsmenu:bunny_ears_placed",
+  "step": "vegetal_decoration"
+}
+

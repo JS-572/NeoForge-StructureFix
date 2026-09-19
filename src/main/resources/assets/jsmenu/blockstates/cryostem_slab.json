@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jsmenu:block/cryostem_slab"
+    },
+    "type=double": {
+      "model": "jsmenu:block/cryostem_block"
+    },
+    "type=top": {
+      "model": "jsmenu:block/cryostem_slab_top"
+    }
+  }
+}

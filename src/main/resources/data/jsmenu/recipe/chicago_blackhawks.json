@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:white_concrete"
+    },
+    {
+      "tag": "minecraft:leaves"
+    },
+    {
+      "tag": "minecraft:meat"
+    },
+    {
+      "item": "minecraft:bow"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "jsmenu:nhl_chi"
+  }
+}

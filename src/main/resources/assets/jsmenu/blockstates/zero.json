@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "jsmenu:block/zero",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "jsmenu:block/zero"
+    },
+
+    "facing=south": {
+      "model": "jsmenu:block/zero",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsmenu:block/zero",
+      "y": 270
+    }
+  }
+}

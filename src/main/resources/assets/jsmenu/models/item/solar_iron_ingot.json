@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "jsmenu:item/solar_iron_ingot"
+  }
+}

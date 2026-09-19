@@ -1,0 +1,28 @@
+{
+  "feature": "jsmenu:winter_solace",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 18
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": { "absolute": 220 },
+        "min_inclusive": { "absolute": 90 }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
+

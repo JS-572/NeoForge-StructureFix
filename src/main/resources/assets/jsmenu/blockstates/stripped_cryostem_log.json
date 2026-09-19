@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "jsmenu:block/stripped_cryostem_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "jsmenu:block/stripped_cryostem_log"
+    },
+    "axis=z": {
+      "model": "jsmenu:block/stripped_cryostem_log_horizontal",
+      "x": 90
+    }
+  }
+}

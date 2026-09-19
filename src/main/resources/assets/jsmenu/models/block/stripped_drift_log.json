@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "jsmenu:block/drift_log_top",
+    "side": "jsmenu:block/stripped_drift_log_side"
+  }
+}

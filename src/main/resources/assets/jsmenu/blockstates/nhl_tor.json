@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "jsmenu:block/nhl_tor",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "jsmenu:block/nhl_tor"
+    },
+
+    "facing=south": {
+      "model": "jsmenu:block/nhl_tor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsmenu:block/nhl_tor",
+      "y": 270
+    }
+  }
+}

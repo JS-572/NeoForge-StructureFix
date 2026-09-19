@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "jsmenu:block/nba_dal",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "jsmenu:block/nba_dal"
+    },
+
+    "facing=south": {
+      "model": "jsmenu:block/nba_dal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsmenu:block/nba_dal",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,150 @@
+﻿{
+    "type":  "minecraft:block",
+    "pools":  [
+                  {
+                      "bonus_rolls":  0,
+                      "conditions":  [
+                                         {
+                                             "condition":  "minecraft:block_state_property",
+                                             "block":  "minecraft:wheat",
+                                             "properties":  {
+                                                                "age":  "7"
+                                                            }
+                                         }
+                                     ],
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "minecraft:wheat"
+                                      }
+                                  ],
+                      "functions":  [
+                                        {
+                                            "function":  "minecraft:explosion_decay"
+                                        }
+                                    ],
+                      "rolls":  1
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "minecraft:wheat_seeds"
+                                      }
+                                  ],
+                      "conditions":  [
+                                         {
+                                             "condition":  "minecraft:block_state_property",
+                                             "block":  "minecraft:wheat",
+                                             "properties":  {
+                                                                "age":  "7"
+                                                            }
+                                         }
+                                     ],
+                      "functions":  [
+                                        {
+                                            "function":  "minecraft:set_count",
+                                            "add":  false,
+                                            "count":  {
+                                                          "type":  "minecraft:uniform",
+                                                          "min":  1,
+                                                          "max":  3
+                                                      }
+                                        },
+                                        {
+                                            "function":  "minecraft:apply_bonus",
+                                            "enchantment":  "minecraft:fortune",
+                                            "formula":  "minecraft:uniform_bonus_count",
+                                            "bonusMultiplier":  1
+                                        },
+                                        {
+                                            "function":  "minecraft:explosion_decay"
+                                        }
+                                    ],
+                      "rolls":  1
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "conditions":  [
+                                         {
+                                             "condition":  "minecraft:inverted",
+                                             "term":  {
+                                                          "condition":  "minecraft:block_state_property",
+                                                          "block":  "minecraft:wheat",
+                                                          "properties":  {
+                                                                             "age":  "7"
+                                                                         }
+                                                      }
+                                         }
+                                     ],
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "minecraft:wheat_seeds"
+                                      }
+                                  ],
+                      "functions":  [
+                                        {
+                                            "function":  "minecraft:explosion_decay"
+                                        }
+                                    ],
+                      "rolls":  1
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "conditions":  [
+                                         {
+                                             "condition":  "minecraft:block_state_property",
+                                             "block":  "minecraft:wheat",
+                                             "properties":  {
+                                                                "age":  "7"
+                                                            }
+                                         },
+                                         {
+                                             "condition":  "minecraft:random_chance",
+                                             "chance":  0.4
+                                         }
+                                     ],
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "jsmenu:brown_lentils",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "jsmenu:chickpeas",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "jsmenu:brown_rice",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "jsmenu:black_beans",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "jsmenu:green_pea",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "type":  "minecraft:item",
+                                          "name":  "jsmenu:corn",
+                                          "weight":  1
+                                      }
+                                  ],
+                      "functions":  [
+                                        {
+                                            "function":  "minecraft:explosion_decay"
+                                        }
+                                    ],
+                      "rolls":  1
+                  }
+              ],
+    "random_sequence":  "jsmenu:blocks/wheat"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "jsmenu:block/cryostem_planks",
+    "side": "jsmenu:block/cryostem_planks",
+    "top": "jsmenu:block/cryostem_planks"
+  }
+}

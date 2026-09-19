@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "jsmenu:block/corona_bloom_planks"
+  }
+}

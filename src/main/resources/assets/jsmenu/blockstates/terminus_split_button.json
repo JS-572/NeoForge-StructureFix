@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "face=ceiling,facing=east,powered=false": { "model": "jsmenu:block/terminus_split_button", "x": 180, "y": 90 },
+    "face=ceiling,facing=east,powered=true": { "model": "jsmenu:block/terminus_split_button_pressed", "x": 180, "y": 90 },
+    "face=ceiling,facing=north,powered=false": { "model": "jsmenu:block/terminus_split_button", "x": 180 },
+    "face=ceiling,facing=north,powered=true": { "model": "jsmenu:block/terminus_split_button_pressed", "x": 180 },
+    "face=ceiling,facing=south,powered=false": { "model": "jsmenu:block/terminus_split_button", "x": 180 },
+    "face=ceiling,facing=south,powered=true": { "model": "jsmenu:block/terminus_split_button_pressed", "x": 180 },
+    "face=ceiling,facing=west,powered=false": { "model": "jsmenu:block/terminus_split_button", "x": 180, "y": 90 },
+    "face=ceiling,facing=west,powered=true": { "model": "jsmenu:block/terminus_split_button_pressed", "x": 180, "y": 90 },
+
+    "face=floor,facing=east,powered=false": { "model": "jsmenu:block/terminus_split_button_east_west", "y": 90},
+    "face=floor,facing=east,powered=true": { "model": "jsmenu:block/terminus_split_button_east_west_pressed", "y": 90 },
+    "face=floor,facing=north,powered=false": { "model": "jsmenu:block/terminus_split_button" },
+    "face=floor,facing=north,powered=true": { "model": "jsmenu:block/terminus_split_button_pressed" },
+    "face=floor,facing=south,powered=false": { "model": "jsmenu:block/terminus_split_button" },
+    "face=floor,facing=south,powered=true": { "model": "jsmenu:block/terminus_split_button_pressed" },
+    "face=floor,facing=west,powered=false": { "model": "jsmenu:block/terminus_split_button_east_west", "y": 90 },
+    "face=floor,facing=west,powered=true": { "model": "jsmenu:block/terminus_split_button_east_west_pressed", "y": 90 },
+
+    "face=wall,facing=east,powered=false": { "model": "jsmenu:block/terminus_split_button_wall_west", "x": 90, "y": 90 },
+    "face=wall,facing=east,powered=true": { "model": "jsmenu:block/terminus_split_button_wall_west_pressed", "x": 90, "y": 90 },
+    "face=wall,facing=north,powered=false": { "model": "jsmenu:block/terminus_split_button", "x": 90 },
+    "face=wall,facing=north,powered=true": { "model": "jsmenu:block/terminus_split_button_pressed", "x": 90 },
+    "face=wall,facing=south,powered=false": { "model": "jsmenu:block/terminus_split_button", "x": 270 },
+    "face=wall,facing=south,powered=true": { "model": "jsmenu:block/terminus_split_button_pressed", "x": 270 },
+    "face=wall,facing=west,powered=false": { "model": "jsmenu:block/terminus_split_button_wall_east", "x": 90, "y": 270 },
+    "face=wall,facing=west,powered=true": { "model": "jsmenu:block/terminus_split_button_wall_east_pressed", "x": 90, "y": 270 }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "jsmenu:block/terminus_split_fence_post" }
+    },
+    {
+      "when": { "north": "true" },
+      "apply": { "model": "jsmenu:block/terminus_split_fence_side_north" }
+    },
+    {
+      "when": { "south": "true" },
+      "apply": { "model": "jsmenu:block/terminus_split_fence_side_south" }
+    },
+    {
+      "when": { "west": "true" },
+      "apply": { "model": "jsmenu:block/terminus_split_fence_side_west" }
+    },
+    {
+      "when": { "east": "true" },
+      "apply": { "model": "jsmenu:block/terminus_split_fence_side_east" }
+    }
+  ]
+}

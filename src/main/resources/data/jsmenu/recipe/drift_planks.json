@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jsmenu:drift_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "jsmenu:drift_planks"
+  }
+}

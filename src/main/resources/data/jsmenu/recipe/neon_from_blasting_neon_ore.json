@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "neon",
+  "ingredient": {
+    "item": "jsmenu:neon_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:neon"
+  }
+}

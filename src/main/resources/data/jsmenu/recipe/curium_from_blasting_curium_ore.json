@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "curium",
+  "ingredient": {
+    "item": "jsmenu:curium_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:curium"
+  }
+}

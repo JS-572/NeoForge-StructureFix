@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "jsmenu:short_lunar_grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jsmenu:short_lunar_grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jsmenu:short_lunar_grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jsmenu:short_lunar_grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jsmenu:short_lunar_grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jsmenu:short_lunar_grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jsmenu:short_lunar_grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jsmenu:short_lunar_grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jsmenu:short_lunar_grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jsmenu:cucumber"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "jsmenu:blocks/short_lunar_grass"
+}

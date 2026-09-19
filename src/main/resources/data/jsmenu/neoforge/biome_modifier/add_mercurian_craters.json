@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": ["jsmenu:frozen_shadow_craters"],
+  "features": "jsmenu:mercurian_craters_placed",
+  "step": "surface_structures"
+}

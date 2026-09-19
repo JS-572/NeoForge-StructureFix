@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jsmenu:bragstone_block"
+    },
+    {
+      "item": "jsmenu:calcium"
+    },
+    {
+      "item": "jsmenu:lithium"
+    }
+  ],
+  "result": [
+    {
+    "count": 1,
+    "id": "minecraft:redstone_block"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:redstone"
+    }
+  ]
+}

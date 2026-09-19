@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "caesium",
+  "ingredient": {
+    "item": "jsmenu:caesium_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:caesium"
+  }
+}

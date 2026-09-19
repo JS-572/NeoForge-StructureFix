@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "jsmenu:block/mlb_stl",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "jsmenu:block/mlb_stl"
+    },
+
+    "facing=south": {
+      "model": "jsmenu:block/mlb_stl",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsmenu:block/mlb_stl",
+      "y": 270
+    }
+  }
+}

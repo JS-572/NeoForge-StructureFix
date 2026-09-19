@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "rhenium",
+  "ingredient": {
+    "item": "jsmenu:rhenium_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:rhenium_ingot"
+  }
+}

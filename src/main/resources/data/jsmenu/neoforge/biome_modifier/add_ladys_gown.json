@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:cherry_grove",
+    "minecraft:forest",
+    "minecraft:birch_forest"
+  ],
+  "features": "jsmenu:ladys_gown_placed",
+  "step": "vegetal_decoration"
+}
+

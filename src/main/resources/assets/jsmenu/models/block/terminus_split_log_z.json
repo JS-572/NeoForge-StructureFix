@@ -1,0 +1,70 @@
+{
+  "parent": "block/block",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "top": "jsmenu:block/terminus_split_log_side_4",
+    "bottom": "jsmenu:block/terminus_split_log_side_4",
+    "north_layer0": "jsmenu:block/terminus_split_log_bottom_west_right",
+    "north_layer1": "jsmenu:block/terminus_split_log_top_east_left",
+    "east": "jsmenu:block/terminus_split_log_side_1",
+    "south_layer0": "jsmenu:block/terminus_split_log_top_east_right",
+    "south_layer1": "jsmenu:block/terminus_split_log_bottom_west_left",
+    "west": "jsmenu:block/terminus_split_log_side_2"
+  },
+  "elements": [
+    {
+      "name": "base_block",
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "down": {
+          "texture": "#bottom",
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#top",
+          "cullface": "up"
+        },
+        "north": {
+          "texture": "#north_layer0",
+          "cullface": "north"
+        },
+        "east": {
+          "texture": "#east",
+          "cullface": "east"
+        },
+        "south": {
+          "texture": "#south_layer0",
+          "cullface": "south"
+        },
+        "west": {
+          "texture": "#west",
+          "cullface": "west"
+        }
+      }
+    },
+    {
+      "name": "extra_block",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#north_layer1",
+          "cullface": "north"
+        },
+        "south": {
+          "texture": "#south_layer1",
+          "cullface": "south"
+        }
+      }
+    }
+  ]
+}

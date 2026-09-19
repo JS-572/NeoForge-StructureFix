@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": ["jsmenu:sunscorch_plains"],
+  "features": "jsmenu:ferric_spine_tree_placed",
+  "step": "vegetal_decoration"
+}

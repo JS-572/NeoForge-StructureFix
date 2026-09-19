@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jsmenu:block/lunar_slab"
+    },
+    "type=double": {
+      "model": "jsmenu:block/lunar_block"
+    },
+    "type=top": {
+      "model": "jsmenu:block/lunar_slab_top"
+    }
+  }
+}

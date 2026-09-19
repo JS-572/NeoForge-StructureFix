@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "jsmenu:block/bloom_log_top",
+    "side": "jsmenu:block/bloom_log_side"
+  }
+}

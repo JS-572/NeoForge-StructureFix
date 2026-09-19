@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jsmenu:block/heliospire_slab"
+    },
+    "type=double": {
+      "model": "jsmenu:block/heliospire_block"
+    },
+    "type=top": {
+      "model": "jsmenu:block/heliospire_slab_top"
+    }
+  }
+}

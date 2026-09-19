@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "lutetium",
+  "ingredient": {
+    "item": "jsmenu:lutetium_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:lutetium"
+  }
+}

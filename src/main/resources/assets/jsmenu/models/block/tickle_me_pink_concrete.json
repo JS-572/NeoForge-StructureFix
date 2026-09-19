@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "jsmenu:block/tickle_me_pink_concrete"
+  }
+}

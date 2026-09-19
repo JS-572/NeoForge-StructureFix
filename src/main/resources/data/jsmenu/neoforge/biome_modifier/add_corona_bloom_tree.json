@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "jsmenu:corona_highlands"
+  ],
+  "features": "jsmenu:corona_bloom_tree_placed",
+  "step": "vegetal_decoration"
+}

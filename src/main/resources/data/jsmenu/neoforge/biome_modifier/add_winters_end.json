@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:grove",
+    "minecraft:snowy_taiga",
+    "minecraft:meadow"
+  ],
+  "features": "jsmenu:winters_end_placed",
+  "step": "vegetal_decoration"
+}
+

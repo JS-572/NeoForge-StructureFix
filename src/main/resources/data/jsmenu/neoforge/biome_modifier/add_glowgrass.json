@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "jsmenu:glowfields"
+  ],
+  "features": "jsmenu:glowgrass_placed",
+  "step": "vegetal_decoration"
+}
+

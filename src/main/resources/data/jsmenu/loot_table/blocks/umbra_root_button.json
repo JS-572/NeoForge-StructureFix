@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "jsmenu:umbra_root_button"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "jsmenu:blocks/umbra_root_bloom_button"
+}

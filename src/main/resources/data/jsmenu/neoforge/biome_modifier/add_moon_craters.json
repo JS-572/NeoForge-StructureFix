@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": ["jsmenu:crater_gardens"],
+  "features": "jsmenu:moon_craters_placed",
+  "step": "surface_structures"
+}

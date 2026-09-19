@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "einsteinium",
+  "ingredient": {
+    "item": "jsmenu:einsteinium_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:einsteinium"
+  }
+}

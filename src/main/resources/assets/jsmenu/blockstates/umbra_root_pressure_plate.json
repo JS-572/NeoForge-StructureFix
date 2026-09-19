@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "jsmenu:block/umbra_root_pressure_plate"
+    },
+    "powered=true": {
+      "model": "jsmenu:block/umbra_root_pressure_plate_down"
+    }
+  }
+}

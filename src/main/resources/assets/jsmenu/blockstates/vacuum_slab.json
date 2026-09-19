@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jsmenu:block/vacuum_slab"
+    },
+    "type=double": {
+      "model": "jsmenu:block/vacuum_block"
+    },
+    "type=top": {
+      "model": "jsmenu:block/vacuum_slab_top"
+    }
+  }
+}

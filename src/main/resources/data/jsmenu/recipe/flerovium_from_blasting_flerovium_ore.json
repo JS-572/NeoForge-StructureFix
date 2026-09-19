@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "flerovium",
+  "ingredient": {
+    "item": "jsmenu:flerovium_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:flerovium"
+  }
+}

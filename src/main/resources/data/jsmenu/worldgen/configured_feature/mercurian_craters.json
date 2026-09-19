@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "attempts": 64,
+    "feature": {
+      "feature": {
+        "type": "minecraft:simple_block",
+        "config": {
+          "to_place": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:cave_air"
+            }
+          }
+        }
+      },
+      "placement": []
+    },
+    "xzspread": 6,
+    "yspread": 2,
+    "whitelist": [
+      "jsmenu:mercurian_basalt"
+    ]
+  }
+}

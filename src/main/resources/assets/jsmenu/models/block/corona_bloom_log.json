@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "jsmenu:block/corona_bloom_log_top",
+    "side": "jsmenu:block/corona_bloom_log_side"
+  }
+}

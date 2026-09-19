@@ -1,0 +1,13 @@
+{
+  "values": [
+    "jsmenu:lunar_pressure_plate",
+    "jsmenu:vacuum_pressure_plate",
+    "jsmenu:drift_pressure_plate",
+    "jsmenu:bloom_pressure_plate",
+    "jsmenu:heliospire_pressure_plate",
+    "jsmenu:umbra_root_pressure_plate",
+    "jsmenu:terminus_split_pressure_plate",
+    "jsmenu:ferric_spine_pressure_plate",
+    "jsmenu:cryostem_pressure_plate"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jsmenu:block/umbra_root_slab"
+    },
+    "type=double": {
+      "model": "jsmenu:block/umbra_root_block"
+    },
+    "type=top": {
+      "model": "jsmenu:block/umbra_root_slab_top"
+    }
+  }
+}

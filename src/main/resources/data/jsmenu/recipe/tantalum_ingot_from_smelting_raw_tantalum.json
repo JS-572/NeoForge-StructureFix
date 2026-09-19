@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "tantalum",
+  "ingredient": {
+    "item": "jsmenu:raw_tantalum"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:tantalum_ingot"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "ambientocclusion": true,
+  "textures": {
+    "particle": "jsmenu:block/terminus_split_planks_4",
+    "east": "jsmenu:block/terminus_split_planks_1",
+    "west": "jsmenu:block/terminus_split_planks_2",
+    "north": "jsmenu:block/terminus_split_planks_3",
+    "south": "jsmenu:block/terminus_split_planks_4",
+    "top": "jsmenu:block/terminus_split_planks_4"
+  },
+  "elements": [
+    {
+      "name": "pressure_plate_model",
+      "from": [1, 0, 1],
+      "to": [15, 0.5, 15],
+      "faces": {
+        "east": {
+          "texture": "#east"
+        },
+        "north": {
+          "texture": "#north"
+        },
+        "south": {
+          "texture": "#south"
+        },
+        "west": {
+          "texture": "#west"
+        },
+        "up": {
+          "texture": "#top"
+        },
+        "down": {
+          "texture": "#top",
+          "cullface": "down"
+        }
+      }
+    }
+  ]
+}

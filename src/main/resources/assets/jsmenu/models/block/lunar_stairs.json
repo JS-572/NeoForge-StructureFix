@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "jsmenu:block/lunar_planks",
+    "side": "jsmenu:block/lunar_planks",
+    "top": "jsmenu:block/lunar_planks"
+  }
+}

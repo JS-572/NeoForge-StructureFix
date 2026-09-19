@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:meadow",
+    "minecraft:flower_forest"
+  ],
+  "features": "jsmenu:tulip_gameora_placed",
+  "step": "vegetal_decoration"
+}
+

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "moscovium",
+  "ingredient": {
+    "item": "jsmenu:moscovium_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:moscovium"
+  }
+}

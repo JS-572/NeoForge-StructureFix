@@ -1,0 +1,28 @@
+{
+  "feature": "jsmenu:tiger_bell",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 8
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": { "absolute": 190 },
+        "min_inclusive": { "absolute": 70 }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
+

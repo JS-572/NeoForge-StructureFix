@@ -1,0 +1,10 @@
+{
+  "values": {
+    "jsmenu:lithium": {
+      "burn_time": 2560
+    },
+    "jsmenu:lithium_block": {
+      "burn_time": 23040
+    }
+  }
+}

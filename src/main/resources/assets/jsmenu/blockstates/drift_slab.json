@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jsmenu:block/drift_slab"
+    },
+    "type=double": {
+      "model": "jsmenu:block/drift_block"
+    },
+    "type=top": {
+      "model": "jsmenu:block/drift_slab_top"
+    }
+  }
+}

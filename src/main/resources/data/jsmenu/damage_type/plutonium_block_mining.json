@@ -1,0 +1,7 @@
+{
+  "message_id": "jsmenu.plutonium_block_mining",
+  "scaling": "never",
+  "exhaustion": 0.1,
+  "effects": "hurt",
+  "death_message_type": "default"
+}

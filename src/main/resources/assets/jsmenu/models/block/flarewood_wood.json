@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "jsmenu:block/flarewood_log",
+    "side": "jsmenu:block/flarewood_log"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:flower_forest",
+    "minecraft:cherry_grove",
+    "minecraft:dark_forest"
+  ],
+  "features": "jsmenu:p_gameralum_placed",
+  "step": "vegetal_decoration"
+}
+

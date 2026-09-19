@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "jsmenu:block/nba_phi",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "jsmenu:block/nba_phi"
+    },
+
+    "facing=south": {
+      "model": "jsmenu:block/nba_phi",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsmenu:block/nba_phi",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "phosphorus",
+  "ingredient": {
+    "item": "jsmenu:phosphorus_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "jsmenu:phosphorus"
+  }
+}

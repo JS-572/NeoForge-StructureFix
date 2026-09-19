@@ -1,0 +1,6 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "jsmenu:block/light_blue_lava"
+  }
+}

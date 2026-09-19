@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jsmenu:raw_nickel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "jsmenu:raw_nickel"
+  }
+}

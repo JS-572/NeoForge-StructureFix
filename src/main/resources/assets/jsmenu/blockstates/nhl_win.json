@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "jsmenu:block/nhl_win",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "jsmenu:block/nhl_win"
+    },
+
+    "facing=south": {
+      "model": "jsmenu:block/nhl_win",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsmenu:block/nhl_win",
+      "y": 270
+    }
+  }
+}
