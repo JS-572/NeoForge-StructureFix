@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "jsmenu:block/ferric_spine_planks",
-    "side": "jsmenu:block/ferric_spine_planks",
-    "top": "jsmenu:block/ferric_spine_planks"
-  }
-}

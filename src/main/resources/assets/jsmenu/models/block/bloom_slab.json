@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "jsmenu:block/bloom_planks",
-    "side": "jsmenu:block/bloom_planks",
-    "top": "jsmenu:block/bloom_planks"
-  }
-}

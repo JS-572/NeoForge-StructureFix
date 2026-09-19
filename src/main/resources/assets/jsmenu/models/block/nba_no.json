@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "front": "jsmenu:block/nba_no",
-    "side": "minecraft:block/white_concrete",
-    "top": "minecraft:block/white_concrete"
-  }
-}

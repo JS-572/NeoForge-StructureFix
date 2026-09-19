@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "jsmenu:block/razzle_dazzle_rose_concrete"
-  }
-}

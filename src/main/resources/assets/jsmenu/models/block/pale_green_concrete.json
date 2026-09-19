@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "jsmenu:block/pale_green_concrete"
-  }
-}

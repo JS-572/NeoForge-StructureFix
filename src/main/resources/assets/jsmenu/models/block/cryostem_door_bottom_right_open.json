@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/door_bottom_right_open",
-  "render_type": "minecraft:cutout",
-  "textures": {
-    "bottom": "jsmenu:block/cryostem_door_bottom",
-    "top": "jsmenu:block/cryostem_door_top"
-  }
-}
